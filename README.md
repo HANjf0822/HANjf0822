@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @HANjf0822.My English name is Daryl, which is as same as Daryl in the Walking Dead.
-- 👀 I’m interested in football.
-- 🌱 I’m currently learning Machine Learning.
-- 📫 How to reach me :You can reach me by this Email account  dyral_han0822@163.com!
+
