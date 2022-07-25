@@ -1,0 +1,13 @@
+{
+    "isGlobalHotkey": false,
+    "isNeedCopy": false,
+    "globalHotkey": "",
+    "isOutputFile": true,
+    "isOpenExplorer": false,
+    "isOpenOutputFile": true,
+    "isOutputDebug": false,
+    "isIgnoreNoText": true,
+    "outputStyle": 1,
+    "ocrToolPath": "PaddleOCR-json\\PaddleOCR_json.exe",
+    "imageSuffix": ".jpg .jpe .jpeg .jfif .png .webp .bmp .tif .tiff"
+}
