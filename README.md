@@ -1,4 +1,4 @@
-Hi I'm Leon Han
+Hi I'm Dyral Han
 
 I am learning Artificial Intelligence，Machine Learning，Deep Learning，Image Processing and cpp development
 
